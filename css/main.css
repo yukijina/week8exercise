@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.banana {
+  width: 500px;
+  height: 500px;
+}
+
+.peach {
+  background-color: rgb(141, 222, 238);
+}
+
+#orange {
+  height: 200px;
+  width: 500px;
+  background-color:#df73dc;
+}
+
+#grape {
+  height: 200px;
+  width: 500px;
+  background-color: #e2f13b;
+}
